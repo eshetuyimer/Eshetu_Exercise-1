@@ -1,0 +1,170 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Questions"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "1. What is a hardware?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Hardware is the physical components that a computer system requires to function. It encompasses everything with a circuit board that operates within a PC or laptop; including the motherboard, graphics card, CPU (Central Processing Unit), ventilation fans, webcam, power supply, and so on."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "2. What is a software?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "software is a group of programs, functions, procedures, objects, and classes that is developed to receive input from the user and that is processed by a computer (CPU) to generate output. Through software, users can give input to computers and process billions of data and inputs through software."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "3. Convert 10011001 to a decimal number"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "153"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "4. Convert 11101100 to a decimal number"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "236"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "5. Decode this secret message:\n",
+    "01001100 01101111 01100111 01101001 01100011"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "=76 111 103 105 99 = Logic"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "6. Identify and explain stages of Programming."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "It includes the stages of Analyze, Plan, Code, Test and Maintenance.\n",
+    "Analyze: At these stages we need to identify the need of the customer or the actual problem to address.\n",
+    "Plan: At this stage we identify the input required and the process under which the inputs should pass through to provide the expected output in logical order.\n",
+    "Code: At this stage we prepare the script of the actual code to provide instruction for the computer to perform the required task.\n",
+    "Test: Once we have the code, we need to check whether the code is free of bug or not and able to address the purpose meant for.\n",
+    "Maintenance: At this stage we provide up date or fix some unforeseen issues which might be overlooked during coding.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "7. You need to write a program to compute total sales amount when sales tax is 5%. Identify IPO (inpt, process, output) for this program."
+   ]
+  },
+  {
+   "attachments": {},
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Input: quantity goods sold and Unit price\n",
+    "Process:multiply quantity goods sold by Unit price, deduct 5% from each sales income and add all together\n",
+    "Output:Toal sales"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "8. Identify IPO for converting liters to US gallons."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Input:liters\n",
+    "Process:lit X 0.26417205galons/lit\n",
+    "Output: Galons"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "9. Identify IPO for computing a worker's pay. What information/data do you need?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Input: pay /hr,hours worked,other taxable benfits,  income tax and other diductables \n",
+    "Process: pay /hr x hours worked + taxable benfits-income tax and other diductables"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
